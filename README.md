@@ -1,4 +1,4 @@
-[AN-maz](img/github-header-banner%20(1).png)
+ [AN-maz](img/github-header-banner%20(1).png)
 
 ###  🔭 I’m currently studying at **Universitas Teknologi Bandung**  
 ###  🌱 I’m currently sharpening my skills to become a skilled programmer  
