@@ -24,3 +24,5 @@
 
 #### Progress Game
 <img src="https://raw.githubusercontent.com/AN-maz/AN-maz/output/snake.svg" alt="Snake animation" />
+
+
