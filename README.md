@@ -1,5 +1,3 @@
-![AN-maz](img/banner-github.png)
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=>_Hello,+World!;>_I'm+Andrian+Maulana+Dzikwan;>_Welcome+to+my+terminal." alt="Typing SVG" />
