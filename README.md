@@ -1,27 +1,28 @@
 ![AN-maz](img/banner-github.png)
 
-###  🔭 I’m currently studying at **Universitas Teknologi Bandung**  
-###  🌱 I’m currently sharpening my skills to become a skilled programmer  
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=>_Hello,+World!;>_I'm+Andrian+Maulana+Dzikwan;>_Welcome+to+my+terminal." alt="Typing SVG" />
+  </a>
+</div>
 
-### 👯 I’m looking to collaborate on beginner-friendly projects to learn and grow together  
+<br>
 
-###  💬 Ask me anything about Mycoding journeys  
+```console
+root@AN-maz:~# ./fetch_profile.sh
 
-### SKILLS
+================================================================================
+[SYSTEM LOGIN] : SUCCESS
+[USER_ID]      : Andrian Maulana Dzikwan (AN-maz)
+[ROLE]         : Programmer-in-Training | Open Source Aspirant
+================================================================================
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+> AFFILIATION  : Universitas Teknologi Bandung (UTB)
+> BASE         : Bandung, Indonesia
+> STATUS       : 🟢 ONLINE 
+> CURRENT_TASK : Sharpening skills to become a skilled programmer.
+> MISSION      : Looking to collaborate on beginner-friendly projects.
+> PING_ME      : Ask me anything about my coding journeys!
 
-### CONTACT ME
-<a href="https://www.instagram.com/an_m4z/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/andrian-maulana-dzikwan-977798357/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-### My GitHub Stats
-![AN-maz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AN-maz&theme=tokyonight)
-
-#### Progress Game
-<img src="https://raw.githubusercontent.com/AN-maz/AN-maz/output/snake.svg" alt="Snake animation" />
-
+================================================================================
+root@AN-maz:~# ls -l /tech_stack/
