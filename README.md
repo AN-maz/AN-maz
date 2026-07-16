@@ -44,7 +44,7 @@
 </td>
 <td valign="top">
 
-### Hi, I'm Andrian Maulana Dzikwan 👋
+### Hi, I'm Andrian Maulana Dzikwan [Purwa]
 **`AN-maz`** — Programmer-in-Training · Open Source Aspirant
 
 ```yaml
@@ -61,9 +61,22 @@ Mission     : Looking to collaborate on beginner-friendly projects
 
 🛠️ **Tech Stack**
 <br>
-<img src="https://img.shields.io/badge/-Learning-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/-Open%20Source-green?style=flat-square" />
-<img src="https://img.shields.io/badge/-Collaborative-orange?style=flat-square" />
+
+### 🌐 Frontend & Frameworks
+<img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/ES6%20%2F%20JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+### 🗄️ Backend & Databases
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+
+### 📱 Mobile Development
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
+
+---
 
 📫 **Reach out** — always happy to connect and collaborate!
 
