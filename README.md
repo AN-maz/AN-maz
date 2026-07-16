@@ -7,8 +7,11 @@
 </div>
 
 <br>
+<table>
+<tr>
+<td>
 
-```console
+```
                                                                                                                           
                                                           ... ... ...                                                     
                                                       ....   ...:..    ..                                                 
@@ -80,21 +83,26 @@
                         +#**####*+-.--::--=======:::-------------.   .......................     .  ..................:.  
                          ****####*=.---:::----::::--------------................................     ......:.........::.  
                           *#*####*+.:----::--:::...::::------::-...:............................    . .............::::.  
+```
 
-root@AN-maz:~# ./fetch_profile.sh
+</td>
+<td>
 
+```
 ================================================================================
 [SYSTEM LOGIN] : SUCCESS
 [USER_ID]      : Andrian Maulana Dzikwan (AN-maz)
 [ROLE]         : Programmer-in-Training | Open Source Aspirant
 ================================================================================
-
 > AFFILIATION  : Universitas Teknologi Bandung (UTB)
 > BASE         : Bandung, Indonesia
 > STATUS       : 🟢 ONLINE 
 > CURRENT_TASK : Sharpening skills to become a skilled programmer.
 > MISSION      : Looking to collaborate on beginner-friendly projects.
 > PING_ME      : Ask me anything about my coding journeys!
-
 ================================================================================
-root@AN-maz:~# ls -l /tech_stack/
+```
+
+</td>
+</tr>
+</table>
