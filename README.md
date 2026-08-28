@@ -1,81 +1,101 @@
+<!-- Header Banner -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=>_Hello,+World!;>_I'm+Andrian+Maulana+Dzikwan;>_Welcome+to+my+terminal." alt="Typing SVG" />
+  
+  # `> Hello, World! 👋`
+  
+  ```
+  ╔════════════════════════════════════════════════════════════════╗
+  ║  Andrian Maulana Dzikwan [Purwa]                              ║
+  ║  💻 Programmer-in-Training | 🌱 Open Source Aspirant          ║
+  ║  🏫 Universitas Teknologi Bandung (UTB)                        ║
+  ║  📍 Bandung, Indonesia                                         ║
+  ╚════════════════════════════════════════════════════════════════╝
+  ```
+  
+  <a href="https://github.com/yourname">
+    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github" />
   </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
 </div>
-<table>
-<tr>
-<td>
-
-```                         
-                    ..  ..   .                  
-                    .  -*##+. ...               
-                  ....*#%%##*  :.               
-                   :  +:+#*..- .:               
-                   =.    %:   % .               
-                   ##@=-#@*+:-#:=               
-                    #@#%##**+#+*                
-                     %###--+=+                  
-                      #+=:::-+                  
-                     =%##*-++-.                 
-                   %=+.#**+-==@::               
-             -==-@@@===:#+**=@#....:.           
-           +@@@@@@@*::%@@@@@-@......:::::       
-           +@@@@@@@@@@@@@@@@@%:..:.:::::::      
-          *:-@@@@@@@@@@@@@@@%@..:..::.::::      
-          -:::@@@#@=*@@@@%@@@:.:::.::.:..:-     
-         @-=::@@%=------+@@@@:..:.@@:.:..:-     
-         *:-::.-=--===---@@@#::...@=@....:::    
-        *+-::..-=----.:-:@@@::...%@*.. ...:-    
-        ++--...:-=--:--::@@%:......... ...::.   
-        -:::.. .-=-:---:-@@::: .......  ...-:   
-        :.:... :-=-----:-@@.: ......:   ....-   
-        =....  --::-==---@@:.........   .....-  
-        =.#*..:--====:::-@:: ........   ....::  
-         ###+.-----=-:---#: ........  .    .:-  
-         #*#*:-=====::----  ........    ......: 
-          *##=--:-::-----.............  .....:: 
-```
-
-</td>
-<td valign="top">
-
-### Hi, I'm Andrian Maulana Dzikwan [Purwa]
-**`AN-maz`** — Programmer-in-Training · Open Source Aspirant
-
-```yaml
-Affiliation : Universitas Teknologi Bandung (UTB)
-Base        : Bandung, Indonesia
-Status      : 🟢 Online
-Focus       : Sharpening skills to become a skilled programmer
-Mission     : Looking to collaborate on beginner-friendly projects
-```
-
-**💬 Ask me about:** my coding journey, ongoing projects, or how to get started with open source.
 
 ---
 
-🛠️ **Tech Stack**
-<br>
+## `> whoami`
 
-### 🌐 Frontend & Frameworks
-<img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/ES6%20%2F%20JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+Hi! I'm **Purwa** (AN-maz), a student and educator at UTB passionate about building things with code. I'm actively involved in student tech communities and always looking to sharpen my programming skills through collaborative projects and open source contributions.
 
-### 🗄️ Backend & Databases
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+**Currently:** Contributing to community tech initiatives | Teaching & mentoring | Exploring full-stack development
+
+---
+
+## `> tech_stack.json`
+
+### 🌐 Frontend & Web
+```
+Astro  •  React  •  JavaScript (ES6+)  •  HTML/CSS
+```
+
+### 🔙 Backend & Databases  
+```
+PHP  •  Node.js  •  MySQL  •  Firebase
+```
 
 ### 📱 Mobile Development
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
+```
+Java  •  Android Studio  •  XML Layouts
+```
+
+### 🛠️ Tools & Others
+```
+Git  •  VS Code  •  Linux  •  Figma  •  GitHub
+```
 
 ---
 
-📫 **Reach out** — always happy to connect and collaborate!
+## `> interests`
 
-</td>
-</tr>
-</table>
+- 💡 **Full-Stack Development** — Building end-to-end applications
+- 🔄 **Open Source** — Contributing to community projects  
+- 👥 **Collaboration** — Working with teams to solve real problems
+- 📚 **Continuous Learning** — Staying updated with new tech & best practices
+- 🎮 **Game Development** — Part of UKM Oxigen's game dev wing
+- 🏗️ **System Design** — Understanding how things work behind the scenes
+
+---
+
+## `> current_work`
+
+- 🎯 **UKM Oxigen** — Leading tech initiatives in software, hardware & game development
+- 🌍 **English Club** — Teaching & event coordination
+- 🚀 **Galaxy Event** — Collaborative showcase between UKM Oxigen & SNN
+- 💻 **Skill Development** — Deepening expertise in full-stack development
+
+---
+
+## `> let's_connect()`
+
+I'm always excited to:
+- 💬 Discuss coding projects and tech challenges
+- 🤝 Collaborate on beginner-friendly or impactful projects  
+- 📖 Share knowledge and learn together
+- 🎓 Help others starting their programming journey
+
+<div align="center">
+  
+  **Feel free to reach out — let's build something great together!**
+  
+  [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![GitHub Badge](https://img.shields.io/badge/-GitHub-121011?style=flat-square&logo=github)](https://github.com/yourname)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  **`> echo "Happy Coding! 🚀"`**
+  
+</div>
