@@ -1,16 +1,46 @@
 <!-- Header Banner -->
 <div align="center">
-  
-  # `> Hello, World! 👋`
-  
-  ```
-  ╔════════════════════════════════════════════════════════════════╗
-  ║  Andrian Maulana Dzikwan [Purwa]                              ║
-  ║  💻 Programmer-in-Training | 🌱 Open Source Aspirant          ║
-  ║  🏫 Universitas Teknologi Bandung (UTB)                        ║
-  ║  📍 Bandung, Indonesia                                         ║
-  ╚════════════════════════════════════════════════════════════════╝
-  ```
+
+```
+                    ..  ..   .                  
+                    .  -*##+. ...               
+                  ....*#%%##*  :.               
+                   :  +:+#*..- .:               
+                   =.    %:   % .               
+                   ##@=-#@*+:-#:=               
+                    #@#%##**+#+*                
+                     %###--+=+                  
+                      #+=:::-+                  
+                     =%##*-++-.                 
+                   %=+.#**+-==@::               
+             -==-@@@===:#+**=@#....:.           
+           +@@@@@@@*::%@@@@@-@......:::::       
+           +@@@@@@@@@@@@@@@@@%:..:.:::::::      
+          *:-@@@@@@@@@@@@@@@%@..:..::.::::      
+          -:::@@@#@=*@@@@%@@@:.:::.::.:..:-     
+         @-=::@@%=------+@@@@:..:.@@:.:..:-     
+         *:-::.-=--===---@@@#::...@=@....:::    
+        *+-::..-=----.:-:@@@::...%@*.. ...:-    
+        ++--...:-=--:--::@@%:......... ...::-    
+        -:::.. .-=-:---:-@@::: .......  ...-:   
+        :.:... :-=--:--::@@.: ......:   ....-   
+        =....  --::-==---@@:.........   .....-  
+        =.#*..:--====:::-@:: ........   ....::  
+         ###+.-----=-:---#: ........  .    .:-  
+         #*#*:-=====::----  ........    ......: 
+          *##=--:-::-----.............  .....:: 
+```
+
+# `> Hello, World! 👋`
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║  Andrian Maulana Dzikwan [Purwa]                               ║
+║  💻 Programmer-in-Training | Open Source Aspirant              ║
+║  🏫 Universitas Teknologi Bandung (UTB)                        ║
+║  📍 Bandung, Indonesia                                         ║
+╚════════════════════════════════════════════════════════════════╝
+```
   
   <a href="https://github.com/yourname">
     <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github" />
@@ -35,7 +65,7 @@ Hi! I'm **Purwa** (AN-maz), a student and educator at UTB passionate about build
 
 ### 🌐 Frontend & Web
 ```
-Astro  •  React  •  JavaScript (ES6+)  •  HTML/CSS
+Astro  •  React  •  JavaScript (ES6+)  •  HTML/CSS 
 ```
 
 ### 🔙 Backend & Databases  
@@ -50,7 +80,7 @@ Java  •  Android Studio  •  XML Layouts
 
 ### 🛠️ Tools & Others
 ```
-Git  •  VS Code  •  Linux  •  Figma  •  GitHub
+Git  •  VS Code  •  Linux   •  GitHub
 ```
 
 ---
@@ -61,18 +91,8 @@ Git  •  VS Code  •  Linux  •  Figma  •  GitHub
 - 🔄 **Open Source** — Contributing to community projects  
 - 👥 **Collaboration** — Working with teams to solve real problems
 - 📚 **Continuous Learning** — Staying updated with new tech & best practices
-- 🎮 **Game Development** — Part of UKM Oxigen's game dev wing
 - 🏗️ **System Design** — Understanding how things work behind the scenes
-
----
-
-## `> current_work`
-
-- 🎯 **UKM Oxigen** — Leading tech initiatives in software, hardware & game development
-- 🌍 **English Club** — Teaching & event coordination
-- 🚀 **Galaxy Event** — Collaborative showcase between UKM Oxigen & SNN
-- 💻 **Skill Development** — Deepening expertise in full-stack development
-
+- 
 ---
 
 ## `> let's_connect()`
